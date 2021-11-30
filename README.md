@@ -11,7 +11,7 @@
 
 해결한 문제 목록입니다.
 
-|                     번호                     | 분류                               |      C/C++17       | Java 8 | Python 3 | node.js |
+|                     번호                     | 분류                               |       C++17        | Java 8 | Python 3 | node.js |
 | :------------------------------------------: | :--------------------------------- | :----------------: | :----: | :------: | :-----: |
 | [1009](https://www.acmicpc.net/problem/1009) | `수학`, `구현`                     | :white_check_mark: |        |          |         |
 | [1010](https://www.acmicpc.net/problem/1010) | `수학`, `Combination`, `DP`        | :white_check_mark: |        |          |         |
