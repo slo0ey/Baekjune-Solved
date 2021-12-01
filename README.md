@@ -22,3 +22,4 @@
 |  [6186](https://www.acmicpc.net/problem/6186)  | Best Grass         | `구현`, `Graph 이론/탐색`          | :white_check_mark: |        |          |         |
 |  [8680](https://www.acmicpc.net/problem/8680)  | Drzewko            | `수학`, `Tree`                     | :white_check_mark: |        |          |         |
 | [10162](https://www.acmicpc.net/problem/10162) | 전자레인지         | `수학`, `구현`, `Greedy`           | :white_check_mark: |        |          |         |
+| [13985](https://www.acmicpc.net/problem/13985) | 전자레인지         | `수학`, `문자열`, `사칙연산`       | :white_check_mark: |        |          |         |
