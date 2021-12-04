@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _17256 {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[][] vec = {new int[3], new int[3]};
