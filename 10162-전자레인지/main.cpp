@@ -2,7 +2,7 @@
 
 int main() {
   int T;
-  int A, B, C;
+  int A = 0, B = 0, C = 0;
   std::cin >> T;
 
   if (T % 10 != 0)
