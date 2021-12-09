@@ -45,3 +45,4 @@
 | [20254](https://www.acmicpc.net/problem/20254) | Site Score                            | `수학` `사칙연산`                                                                |                    | :white_check_mark: | :white_check_mark: |         |
 | [20492](https://www.acmicpc.net/problem/20492) | 세금                                  | `수학` `사칙연산`                                                                |                    | :white_check_mark: | :white_check_mark: |         |
 | [21300](https://www.acmicpc.net/problem/21300) | Bottle Return                         | `수학`                                                                           |                    | :white_check_mark: | :white_check_mark: |         |
+| [21631](https://www.acmicpc.net/problem/21631) | Checkers                              | `수학` `구현` `애드 혹`                                                          | :white_check_mark: |                    | :white_check_mark: |         |
